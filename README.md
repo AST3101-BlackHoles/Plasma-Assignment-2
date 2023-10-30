@@ -1,6 +1,6 @@
 # Plasma Assignment 2
 
-  * 20% of final grade
+  * 25% of final grade
   * assigned 3 Nov 2023
   * due 17 Nov 2023
 
